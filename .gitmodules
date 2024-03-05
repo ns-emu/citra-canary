@@ -40,9 +40,6 @@
 [submodule "cpp-jwt"]
     path = externals/cpp-jwt
     url = https://github.com/arun11299/cpp-jwt.git
-[submodule "teakra"]
-    path = externals/teakra
-    url = https://github.com/wwylele/teakra.git
 [submodule "lodepng"]
     path = externals/lodepng/lodepng
     url = https://github.com/lvandeve/lodepng.git
@@ -91,3 +88,6 @@
 [submodule "oaknut"]
 	path = externals/oaknut
 	url = https://github.com/merryhime/oaknut.git
+[submodule "externals/cryptopp-cmake"]
+	path = externals/cryptopp-cmake
+	url = https://github.com/abdes/cryptopp-cmake.git
