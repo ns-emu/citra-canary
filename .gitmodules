@@ -25,9 +25,6 @@
 [submodule "inih"]
     path = externals/inih/inih
     url = https://github.com/benhoyt/inih.git
-[submodule "libressl"]
-    path = externals/libressl
-    url = https://github.com/ns-emu/ext-libressl-portable.git
 [submodule "libusb"]
     path = externals/libusb/libusb
     url = https://github.com/libusb/libusb.git
@@ -91,3 +88,6 @@
 [submodule "externals/cryptopp-cmake"]
 	path = externals/cryptopp-cmake
 	url = https://github.com/abdes/cryptopp-cmake.git
+[submodule "externals/teakra"]
+	path = externals/teakra
+	url = https://github.com/wwylele/teakra.git
